@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on @devlordduck
 - 📫 How to reach me discord-sssponge_mc
-- 😄 Pronouns: eshkere
-- ⚡ Fun fact: 
+- 😄 Pronouns: nukemaster
 
 <!---
 sondevlordduck/sondevlordduck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
