@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @sondevlordduck
-- 👀 I’m interested in sperma
-- 🌱 I’m currently learning pidoras
+- 👀 I’m interested in code
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on @devlordduck
-- 📫 How to reach me punus
+- 📫 How to reach me discord-sssponge_mc
 - 😄 Pronouns: eshkere
-- ⚡ Fun fact: spirma in ochko!
+- ⚡ Fun fact: 
 
 <!---
 sondevlordduck/sondevlordduck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
